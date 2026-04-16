@@ -1,5 +1,5 @@
 <item>
-  <version>7.0.0.0</version>
+  <version>8.0.0.0</version>
   <url>https://raw.githubusercontent.com/sahel0708/MyApp-Updates/main/LegacyUpdate.zip</url>
-  <mandatory>true</mandatory>
+  <mandatory>false</mandatory>
 </item>
