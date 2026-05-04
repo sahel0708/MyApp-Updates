@@ -1,6 +1,6 @@
 <item>
-  <version>7.8.5.2</version>
+  <version>7.8.5.3</version>
   <url>https://raw.githubusercontent.com/sahel0708/MyApp-Updates/main/LegacyUpdate.zip</url>
-  <mandatory>false</mandatory>
+  <mandatory>true</mandatory>
   <description>REGULAR UPDATE</description>
 </item>
